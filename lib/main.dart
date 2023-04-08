@@ -1,8 +1,6 @@
 import 'package:dialog_flowtter/dialog_flowtter.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:healinghands/Home.dart';
-import 'package:healinghands/Messages.dart';
 import 'package:healinghands/splash_screen.dart';
 
 void main() {

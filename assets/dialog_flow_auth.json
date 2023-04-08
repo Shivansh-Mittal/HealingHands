@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthbot-jxnp",
+  "private_key_id": "6a42f96ead1e1dbad44dda8777e36039ac1988ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyJRnTgSElQMev\ns4CsRQEnUF0y7NPYDJihEVBHjVaEhfThMZHY939cVqM84T/KJhgz5CG5ckpBdmm1\nmhUp1lILsM8LoeysSdADmdHbRrxnWxw7c0+zWqvh9tu3AwYccnOA57QOyVU69h6e\n+ZSJyh0AwTbpein40N2JLnLki3IyHMkTAO67NrR7/J95qrBroh/TKritgeJR2Pm2\nfoJO+XoRAS0u17u/19qIIFFKSYSIDSI9ymQ+hgMVDkbH7sLshNmPZhDIKhCq6nc7\ntibLWzuo62ABXiabjmQVgkO7j/4vNzc7tboWPholA0TFZhWm8hkZ7e086BJmERpd\nEvYm0oB1AgMBAAECggEABvXT92jPQ03vj2HveCueXYDHvME2j2AsnXcYSyIOpuZh\n+I4lK+mS9b1igDLaeRrkbVtE5bfoBqc/qZYFLNQ1cpn8TkYhFw6E51hySS46FxK0\nUhlRsZ5XDWDbBEtEs5tVf8xDGM8iepzaT5f3nFZD1v9K696MocQCsoUDUwJ6Gig8\nvwOOzs3sBwMc0sixPMft2boZ2CAZxXFs1SeMPBiIz7m5Cc1X0C9xiJzRcOSk1uc8\nP9AbNN8Yzvw/wYRdDAhvLv6w+n0jZXAOexEskbbjuOW3N40l/ElQ4N5JizefPHQP\n59kVrVcRcvMkqSs5rAsqBIub2g9fs7W9I4gRCQoZGQKBgQD1fyCYMSZvOkS/KRpk\nRYnFo8xx+W2gzmUF0fMgVsR4ApmpiRnu+8n0Y0+5Vq5I96d6kyz2mV+KuGqVQqTH\nQqb63UOJWFeJXk/Ye3gJFyHi/dI6AmmOy4Hr3wrr82kOFXdyDbrDg79uSVZpi5Hw\nEBN13iuywKLl5NjH0vEPyPUoaQKBgQC5xEjumg24pTTjofOuVmJWxSwdI+i+Kf7P\nZsS2y1C8aa4dCxao5WvH3Jzd3VHTfcs5ke9ds3Mzi1kYOp57fqlm4VYto6Yd5iPw\nS4U6VWh3inyjqmNfVyVn34C1N+sbLuf3gq28kWdjrlwScMCoqnknlRNg6woAtvaz\n1yLRZwp2LQKBgHDl/NxgxhciydjLk0qHvDs6/9tuZN8t68GIcvHtVT8HmxkfZuDD\nxHVycoh+d3oxAkFZi7UAhbKq6sEnu9WzLk1yEgwIp4ER8VBSP7qWe8wDBHoO//Je\nXqpVkZU/BJIohxzZeYlOfmu+qFGzkPLAweJTwO7crk1hN9x1gszKkwv5AoGAKyOE\n2DvYId/jh1UNlJek4IeLNf0nyDlSXfF8jwJp7kcQUthHW9NjExeNKgyCOv3EWssj\n7fuFLhwXBYRfV0hTqHt9mr2dDuZpxByVhLVevBvh09P2naZMHnINnoesxjQ/U//5\nvod5nfFYmkOqycBEwEdjJ6eNPBtA8QRtpnkqOcUCgYBGzmLayEWhsTGbn/29zAkO\nC3Ug92Xv53AyR3dDRt4MPoOqNbpnF8LyGupdaxqns/xPa1D8tezhBLZfu70BgBhf\nMl33m1N2DSQc7NNzHtmONJyD8wqqR2EtNHCN+PnEdifAGZDwC1zRwjVFZmmvBMAs\nxN1anmIUkYREiGI91ueHVw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "healthyhandsmalltalks@healthbot-jxnp.iam.gserviceaccount.com",
+  "client_id": "109078714787689102039",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/healthyhandsmalltalks%40healthbot-jxnp.iam.gserviceaccount.com"
+}
